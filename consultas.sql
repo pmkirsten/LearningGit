@@ -3,3 +3,5 @@
 SELECT * FROM MOVIES
 --2.- Consulta
 SELECT * FROM ACTORS
+--3.- Consulta
+SELECT * FROM MEMBERS
